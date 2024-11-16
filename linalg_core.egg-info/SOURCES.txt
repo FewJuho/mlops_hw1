@@ -1,0 +1,10 @@
+LinearAlgebra.cpp
+LinearAlgebra.h
+bindings.cpp
+pyproject.toml
+setup.py
+linalg_core.egg-info/PKG-INFO
+linalg_core.egg-info/SOURCES.txt
+linalg_core.egg-info/dependency_links.txt
+linalg_core.egg-info/not-zip-safe
+linalg_core.egg-info/top_level.txt
